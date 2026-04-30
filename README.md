@@ -3,7 +3,6 @@
   <img src="Anshika.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Anshika Bharti</h1>
 <h3 align="center">B.Tech IT Student | Aspiring Software Developer</h3>
 
 ---
