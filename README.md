@@ -47,18 +47,20 @@ Git
 
 ---
 
-## 📊 GitHub Stats
+### ⚙️ Tech Stack
 
-![Stats](https://github-readme-stats.vercel.app/api?username=123-Anshika&show_icons=true&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=123-Anshika&layout=compact&theme=tokyonight)
+C++ | Python | HTML | CSS | JavaScript | NumPy
 
 ---
 
-## 🔗 Connect With Me
+### 📊 GitHub Stats
 
-- LinkedIn  
-- GitHub  
-- LeetCode  
+![Anshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithanshika-7&show_icons=true&theme=tokyonight)
 
 ---
+
+### 🔗 Connect with me
+
+- LinkedIn
+- LeetCode
+- GitHub
