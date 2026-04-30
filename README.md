@@ -1,16 +1,64 @@
-## Hi there 👋
+<!-- 👇 Yaha apni image ka link daalo -->
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" alt="Banner" width="100%" />
+</p>
 
-<!--
-**codewithanshika-7/codewithanshika-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Anshika Bharti</h1>
+<h3 align="center">B.Tech IT Student | Aspiring Software Developer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a 3rd Year B.Tech Information Technology student with a strong interest in **Web Development**.
+
+I enjoy designing and building interactive web applications using **HTML, CSS, and JavaScript**. I love turning ideas into real projects and continuously improving my development skills through hands-on practice.
+
+- 🔭 I’m currently working on **Frontend projects**
+- 🌱 I’m currently learning **JavaScript concepts & interactive UI**
+- 👯 I’m looking to collaborate on **Frontend & beginner open-source projects**
+- 🤔 I’m looking for help with **UI/UX & responsive design**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python basics**
+- 📫 How to reach me: **LinkedIn**
+- 😄 Pronouns: **She/Her**
+- ⚡ Fun fact: I enjoy designing creative webpages & experimenting with layouts
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+C++ | Python | JavaScript  
+
+**Web Technologies:**  
+HTML | CSS  
+
+**Tools:**  
+Git  
+
+---
+
+## 💻 My Projects
+
+- 🤖 AI Chatbot using Gemini API  
+- 🕹️ Tetris Game using JavaScript  
+- 🌐 Parallax Website using HTML & CSS  
+- ⏰ Digital Clock using Python  
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=123-Anshika&show_icons=true&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=123-Anshika&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Connect With Me
+
+- LinkedIn  
+- GitHub  
+- LeetCode  
+
+---
