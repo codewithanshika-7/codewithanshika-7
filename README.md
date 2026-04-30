@@ -1,6 +1,6 @@
 <!-- 👇 Yaha apni image ka link daalo -->
 <p align="center">
-  <img src="Screenshot 2026-04-30 220154.png" alt="Banner" width="100%" />
+  <img src="Anshika.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anshika Bharti</h1>
